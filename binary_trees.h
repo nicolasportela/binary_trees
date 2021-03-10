@@ -1,6 +1,7 @@
 #ifndef BT
 #define BT
 
+#include <stdlib.h>
 #include <stdio.h>
 #include <stddef.h>
 
